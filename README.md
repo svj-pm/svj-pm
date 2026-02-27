@@ -30,6 +30,6 @@ solves a real problem — the interview agent saved 20+ hours of manual work,
 the marketing agents run real campaigns, and the enterprise prototypes
 inform how I think about AI product strategy.
 
-I write about what I'm learning on [LinkedIn]([your-link](https://www.linkedin.com/in/santiago-v-jeyaseelan/)).
-Portfolio: [sv-j.com](https://sv-j.com)
-[Email](mailto:san.vinodh@gmail.com) — open to conversations about AI product leadership
+I write about what I'm learning on [LinkedIn](https://www.linkedin.com/in/santiago-v-jeyaseelan/) | 
+Portfolio: [sv-j.com](https://sv-j.com) | 
+Email [me](mailto:san.vinodh@gmail.com) — open to conversations about AI product leadership
