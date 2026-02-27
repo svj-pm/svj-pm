@@ -21,7 +21,7 @@ and campaign optimization. Powering a real D2C apparel brand.
 **Enterprise AI Prototypes** — Exploring how agent architectures can
 transform enterprise document processing, policy enforcement, and
 intelligent workflow routing.
-[→ View Project](Coming Soon)
+(...Coming Soon)
 
 ## Why a VP of Product Has a GitHub
 
