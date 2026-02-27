@@ -1,31 +1,35 @@
-# Hey, I'm Santiago V Jeyaseelan 👋
+# Hey, I'm Santiago
 
-VP of Product with 15+ years in fintech, payments, and enterprise software.
-I build AI-powered tools to solve real problems.
+VP of Product building AI agent systems that solve real problems.
 
-## What I'm Building
+15+ years in fintech, insurtech, and enterprise software. Started my career
+writing Java. Spent the last decade+ leading product teams. Now I'm building
+directly with AI because I believe product leaders need to understand what
+they're asking their teams to build.
 
-🔍 **AI Interview Intelligence** — An agent system that ingests company research,
-job descriptions, and interviewer profiles to generate targeted preparation materials.
-Built with Python + Claude API. [→ View Project](#)
+## What I'm Working On
 
-🛍️ **E-Commerce Marketing Agents** — Autonomous agents handling content generation,
-audience targeting, and campaign optimization for a direct-to-consumer apparel brand.
-Work in progress. [→ View Project](#)
+**Interview Intelligence Agent** — AI system that transforms unstructured
+research into targeted preparation materials. Ingests documents, identifies
+information gaps, generates role-specific outputs. Python + Claude API.
+[→ View Project](https://github.com/svj-pm/interview-prep-agent)
 
+**E-Commerce Marketing Agents** — Autonomous agents for content, targeting,
+and campaign optimization. Powering a real D2C apparel brand.
+[→ View Project](https://github.com/svj-pm/ecomm-marketing-agents)
 
-## About My Approach
+**Enterprise AI Prototypes** — Exploring how agent architectures can
+transform enterprise document processing, policy enforcement, and
+intelligent workflow routing.
+[→ View Project](Coming Soon)
 
-I'm a product leader who builds. My background is in computer science and I spent
-my early career writing Java, but I've been in product leadership for 15+ years.
-I started building with AI tools in 2025 because I believe product leaders who
-can't work directly with AI will be left behind.
+## Why a VP of Product Has a GitHub
 
-Every project here solves a real problem I actually have. The interview agent
-saved me 20+ hours of manual preparation. The marketing agents are running
-campaigns for a real business. Nothing here is a tutorial project.
+Most product leaders talk about AI. I build with it. Every project here
+solves a real problem — the interview agent saved 20+ hours of manual work,
+the marketing agents run real campaigns, and the enterprise prototypes
+inform how I think about AI product strategy.
 
-## Connect
-
-- [LinkedIn](https://www.linkedin.com/in/santiago-v-jeyaseelan/)
-- [Email](mailto:san.vinodh@gmail.com) — open to conversations about AI product leadership
+I write about what I'm learning on [LinkedIn]([your-link](https://www.linkedin.com/in/santiago-v-jeyaseelan/)).
+Portfolio: [sv-j.com](https://sv-j.com)
+[Email](mailto:san.vinodh@gmail.com) — open to conversations about AI product leadership
