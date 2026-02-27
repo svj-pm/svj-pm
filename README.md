@@ -1,7 +1,7 @@
 # Hey, I'm Santiago V Jeyaseelan 👋
 
 VP of Product with 15+ years in fintech, payments, and enterprise software.
-I build AI-powered tools to solve real problems — not toy demos.
+I build AI-powered tools to solve real problems.
 
 ## What I'm Building
 
