@@ -14,13 +14,11 @@ research into targeted preparation materials. Ingests documents, identifies
 information gaps, generates role-specific outputs. Python + Claude API.
 [→ View Project](https://github.com/svj-pm/interview-prep-agent)
 
+**Enterprise AI Prototypes** — Exploring how LLMs and agent architectures transform enterprise workflows — complex onboarding, policy-aware routing, and intelligent triage systems.
+[→ View Project](https://github.com/svj-pm/ws-ai-onboarding)
+
 **E-Commerce Marketing Agents** — Autonomous agents for content, targeting,
 and campaign optimization. Powering a real D2C apparel brand.
-[→ View Project](https://github.com/svj-pm/ecomm-marketing-agents)
-
-**Enterprise AI Prototypes** — Exploring how agent architectures can
-transform enterprise document processing, policy enforcement, and
-intelligent workflow routing.
 (...Coming Soon)
 
 ## Why a VP of Product Has a GitHub
